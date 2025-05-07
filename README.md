@@ -111,7 +111,7 @@ This project is open-source under the **MIT License**.
 
 ## 🎥 YouTube Presentation
 Watch the full 30-minute walkthrough explaining the system, threat model, PET implementation, and performance analysis:
-📺 [Youtube Link(https://www.youtube.com/watch?v=Gru2X0hAaNY)]
+📺 [Youtube Link](https://www.youtube.com/watch?v=Gru2X0hAaNY)
 
 ---
 
