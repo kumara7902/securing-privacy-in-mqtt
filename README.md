@@ -65,17 +65,6 @@ mosquitto -c mosquitto.conf
 
 ---
 
-## 📜 SCENARIO.md — How the System Works
-
-### 💬 Scenario
-- Victims send emergency messages (e.g., location, help request).
-- Drones act as brokers relaying encrypted messages.
-- The C2 center receives and decrypts messages.
-
-### 🔐 Privacy Enhancing Technologies Used
-1. **SHA-256 Pseudonymization** – Replaces real name with hashed ID
-2. **AES Encryption** – Encrypts entire message payload using Fernet
-
 ### 🧪 Testing the Simulation
 1. Open one terminal:
 ```bash
